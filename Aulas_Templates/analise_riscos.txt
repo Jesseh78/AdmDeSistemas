@@ -1,0 +1,66 @@
+ANÁLISE DE RISCOS
+Projeto Mobile: Lembrete receitas médicas
+
+1. Planejamento
+Risco: Escopo mal definido (Probabilidade: 40%)
+Causa: Falta de levantamento detalhado de requisitos
+Impacto: Retrabalho, atrasos no cronograma
+Resposta: Revisão contínua do escopo e envolvimento das partes interessadas
+
+2. Infraestrutura
+Risco: Falha na segurança das APIs (Probabilidade: 30%)
+Causa: Implementação inadequada de autenticação/armazenamento
+Impacto: Vazamento de dados sensíveis, comprometimento do sistema
+Resposta: Testes de segurança, revisão de código e uso de boas práticas
+
+3. Aplicativo Mobile
+Risco: Baixa usabilidade (Probabilidade: 25%)
+Causa: Falta de testes com usuários reais
+Impacto: Rejeição do aplicativo pelos usuários
+Resposta: Realizar testes de usabilidade em todas as versões
+
+Risco: Erros no gerenciamento de receitas (Probabilidade: 20%)
+Causa: Falhas de integração ou lógica
+Impacto: Informações incorretas para o usuário
+Resposta: Testes automatizados e validação de dados
+
+4. Módulo de IA
+Risco: Modelo de IA impreciso (Probabilidade: 35%)
+Causa: Dados insuficientes ou de baixa qualidade
+Impacto: Resultados incorretos para o usuário
+Resposta: Treinamento contínuo e validação do modelo
+
+Risco: Dificuldade de integração do módulo de IA (Probabilidade: 15%)
+Causa: Incompatibilidade técnica
+Impacto: Atrasos e retrabalho
+Resposta: Planejamento técnico detalhado e testes de integração
+
+5. Módulo de documentação
+Risco: Documentação incompleta (Probabilidade: 20%)
+Causa: Falta de tempo ou recursos
+Impacto: Dificuldade de manutenção e uso do sistema
+Resposta: Planejamento detalhado da documentação e revisão por pares
+
+Risco: Políticas de segurança insuficientes (Probabilidade: 10%)
+Causa: Falta de atualização ou definição clara
+Impacto: Vulnerabilidades e não conformidade
+Resposta: Revisão periódica das políticas e treinamento da equipe
+
+6. Módulo de entrega
+Risco: Problemas na publicação nas lojas (Probabilidade: 15%)
+Causa: Não conformidade com requisitos das lojas
+Impacto: Atraso no lançamento
+Resposta: Revisão dos requisitos das lojas antes da publicação
+
+Risco: Liberação pública com bugs (Probabilidade: 20%)
+Causa: Testes insuficientes
+Impacto: Má reputação do aplicativo
+Resposta: Testes finais rigorosos e plano de contingência
+
+Risco: Encerramento do projeto sem documentação adequada (Probabilidade: 10%)
+Causa: Falta de planejamento
+Impacto: Dificuldade de manutenção futura
+Resposta: Checklist de encerramento e revisão final dos artefatos
+
+---
+Todos os riscos foram identificados conforme a EAP e o padrão do template.docx, incluindo causas, impactos, porcentagem de probabilidade e respostas recomendadas.
